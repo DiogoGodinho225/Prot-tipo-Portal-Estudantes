@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1704631001 source:c:\users\diogo\downloads\projetocnovo\main\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1705233395 source:c:\users\diogo\onedrive\anexos\documentos\fp\_manuel_2231647_diogo_2231665\fp_projeto\main\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1707494800 source:c:\users\diogo\onedrive\anexos\documentos\psi\fp\_manuel_2231647_diogo_2231665\fp_projeto\main\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
